@@ -1,5 +1,5 @@
 PROYECTO DE PRUEBA
--------------------
+===================
 
 ESTE ES UN PROYECTO DE PRUEBA REALIZADO EN EL **CIFP AVILES**
 
